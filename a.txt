@@ -1,1 +1,4 @@
 Hello git
+Hello Python
+Hello C 
+Hello kitty
